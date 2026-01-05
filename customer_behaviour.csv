@@ -1,0 +1,11 @@
+customer_id,last_purchase_days,purchase_frequency,average_spend,category_switch,payment_change
+C001,10,12,4500,No,No
+C002,45,3,1200,Yes,Yes
+C003,5,15,5200,No,No
+C004,60,2,900,Yes,No
+C005,20,8,3000,No,Yes
+C006,75,1,700,Yes,Yes
+C007,8,14,4800,No,No
+C008,50,4,1500,Yes,No
+C009,12,10,4200,No,No
+C010,90,1,600,Yes,Yes
